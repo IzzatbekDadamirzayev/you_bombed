@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.yurgazgich{
+	background: #222;
+  	height: 50px;
+  	min-width: 150px;
+  	border: none;
+  	border-radius: 10px;
+  	color: #eee;
+  	font-size: 40px;
+  	font-family: "Cookie", cursive;
+  	align-items: center;
+  	justify-content: center;
+  	cursor: pointer;
+  	margin: 200px 0px 0px 100px;
+}
+.yurgazgich p{
+	margin: 0;
+	padding-left: 45px;
+	padding-top: 4px;
+
+}
+.karobka{
+	width: 500px;
+	height: 500px;
+	background-color: #222831;
+	position: relative;
+	margin: 10px;
+	border: #000000 solid 10px;
+}
+#kub{
+	width: 50px;
+	height: 50px;
+	background-color: #ffd369;
+	position: absolute;
+  	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-top-left-radius: 50px;  
+}
+#kub p{
+	margin: 0;
+	padding-top: 17px;
+	padding-left: 8px;
+}
+.flexniki{
+	display: flex;
+}
